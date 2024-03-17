@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Anthony from Italy, and I do content on Finance.
+I really enjoy learning and self-development so i decided to share what i learn during my journey!
 
 [![Anthony Antona's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-Antona)](https://github.com/Anthony-Antona/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Antona&layout=pie)](https://github.com/Anthony-Antona/github-readme-stats)
