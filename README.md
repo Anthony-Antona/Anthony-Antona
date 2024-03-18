@@ -29,16 +29,26 @@ Learn more: https://guides.github.com/features/mastering-markdown/
 <p align='center'>💹Investment banking | Quantitative Finance | Asset management | Quantitative financial risk 💱</p>
 
 I'm from Italy, and I do content on Finance.
+
 I really enjoy learning and self-development so i decided to share what i learn during my journey!
 
+<p align='left'> 📫 As someone who is always passionate about learning  and personal growth. I love to inspire and empower individuals to achieve their highest potential. Believing firmly in the power of positive attitude/hard work/innovation, I strive to lead by example and encourage others to embrace the journey of continuous growth and learning.🚀.</p>
+
+Quantitative Financial Analyst specialized in **Investment** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate the best product.
 
 ![Investment banker and Quant Analyst 🏦 ](https://media.licdn.com/dms/image/D4E16AQHEK1stOyw0RQ/profile-displaybackgroundimage-shrink_350_1400/0/1686161562338?e=1716422400&v=beta&t=eeuli-UGZmuPZrwWWxJnnk6dBCtQ9bOVewot-PZPdPU)
 
+📝 ***Feel free to contact me.*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Anthony-Antona?label=Follow%20Me&style=social)](https://github.com/Anthony-Antona)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Anthony%20Antona-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/anthony-antona/)
+[![Mail](https://img.shields.io/badge/Gmail-anthonyantona.work@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anthonyantona.work@gmail.com)
+<br>
 
 
 ## Skills: 
 * Python, R, LaTeX, Matlab, SQL, Excel VBA, PowerBI, Tableau
-* 
+  
 ## Experience:
 * Finance data Associate in PricewaterhouseCoopers
 
@@ -73,23 +83,13 @@ https://simpleicons.org/
 -->
 
 
-
-📝 ***Feel free to contact me.*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Anthony-Antona?label=Follow%20Me&style=social)](https://github.com/Anthony-Antona)
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Anthony%20Antona-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/anthony-antona/)
-[![Mail](https://img.shields.io/badge/Gmail-anthonyantona.work@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anthonyantona.work@gmail.com)
-<br>
-
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
+ 🌎**Languages:** 📚<br>
+ 
+Italian ![IT](https://hatscripts.github.io/circle-flags/flags/it.svg) C2 | English ![GB](https://hatscripts.github.io/circle-flags/flags/gb.svg) C1 | Spanish ![ES](https://hatscripts.github.io/circle-flags/flags/es.svg) B2 | French ![FR](https://hatscripts.github.io/circle-flags/flags/fr.svg) B1 | German ![DE](https://hatscripts.github.io/circle-flags/flags/de.svg) A2 | Portuguese ![PT](https://hatscripts.github.io/circle-flags/flags/pt.svg) A1
 
-
-
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
-
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
-
-💻 **Languages and Tools:** 🛠️<br>
+- 
+💻 **Coding and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -99,11 +99,48 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Google](https://img.shields.io/badge/-Google-000000?style=flat&logo=google&labelColor=4285F4)
+
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=3776AB)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&labelColor=276DC3)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=latex&labelColor=008080)
+![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab&labelColor=0076A8)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&labelColor=FFFFFF)
+![Excel VBA](https://img.shields.io/badge/-Excel%20VBA-000000?style=flat&logo=microsoftexcel&labelColor=217346)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000000?style=flat&logo=powerbi&labelColor=F2C811)
+![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau&labelColor=E97627)
 
 
 🧐 **Knowledge of:**<br>
 
+![Portfolio Analysis](https://img.shields.io/badge/-Portfolio%20Analysis-000000?style=flat&logo=analytics&labelColor=4A90E2) &nbsp; ![Icon](https://via.placeholder.com/20/4A90E2/FFFFFF?text=PA)
+![Risk Assessment](https://img.shields.io/badge/-Risk%20Assessment-000000?style=flat&logo=security&labelColor=F5A623) &nbsp; ![Icon](https://via.placeholder.com/20/F5A623/FFFFFF?text=RA)
+![Financial Statement Evaluation](https://img.shields.io/badge/-Financial%20Statement%20Evaluation-000000?style=flat&logo=documentation&labelColor=7ED321) &nbsp; ![Icon](https://via.placeholder.com/20/7ED321/FFFFFF?text=FSE)
+![Advanced Financial Modeling](https://img.shields.io/badge/-Advanced%20Financial%20Modeling-000000?style=flat&logo=calculation&labelColor=9013FE) &nbsp; ![Icon](https://via.placeholder.com/20/9013FE/FFFFFF?text=AFM)
+![Investment Strategies](https://img.shields.io/badge/-Investment%20Strategies-000000?style=flat&logo=strategy&labelColor=D0021B) &nbsp; ![Icon](https://via.placeholder.com/20/D0021B/FFFFFF?text=IS)
+![Portfolio Optimization](https://img.shields.io/badge/-Portfolio%20Optimization-000000?style=flat&logo=optimization&labelColor=50E3C2) &nbsp; ![Icon](https://via.placeholder.com/20/50E3C2/FFFFFF?text=PO)
+![Budget Tracking](https://img.shields.io/badge/-Budget%20Tracking-000000?style=flat&logo=budget&labelColor=F8E71C) &nbsp; ![Icon](https://via.placeholder.com/20/F8E71C/FFFFFF?text=BT)
+
+
+
+
+🤓 **Interested:** <br>
+
 `Finance`, `Investment`, `Trading`, `Economics`, `Politics`, `Risk management`, `Blockchain`, `Cryptocurrency`, `Mathematics`, `Programming`, `Statistics`, `Informatics-IT`, `Management`, `Machine Learning`, `Psychology`, `Artificial Intelligence`, `Entrepreneurship` and `Startup`.
+
+
+<!-- ✅  **GitHub Extra Pins**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
+
+<!--
+</br>
+<p style="display: flex; justify-contect: space-between;">
+
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
 
 🌍 **Deployment platforms:**<br>
 
@@ -118,25 +155,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
 
-
-
-🤓 **Interested:** <br>
-
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
-
-
-
-<!-- ✅  **GitHub Extra Pins**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
-
-<!--
-</br>
-<p style="display: flex; justify-contect: space-between;">
-
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
 
 
 -->
