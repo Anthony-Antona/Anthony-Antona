@@ -30,9 +30,9 @@ Learn more: https://guides.github.com/features/mastering-markdown/
 
 I'm from Italy, and I do content on Finance.
 
-I really enjoy learning and self-development so i decided to share what i learn during my journey!
+I really enjoy learning and self-development so I decided to share what I learn during my journey!
 
-<p align='left'> 📫 As someone who is always passionate about learning  and personal growth. I love to inspire and empower individuals to achieve their highest potential. Believing firmly in the power of positive attitude/hard work/innovation, I strive to lead by example and encourage others to embrace the journey of continuous growth and learning.🚀.</p>
+<p align='left'> 📫 Always passionate about learning  and personal growth, hyperactive and constantly looking for new challenges to prove my limits. I love to inspire and empower individuals to achieve their highest potential. Believing firmly in the power of positive attitude/hard work/innovation, I strive to lead by example and encourage others to embrace the journey of continuous growth and learning.🚀.</p>
 
 Quantitative Financial Analyst specialized in **Investment** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate the best product.
 
@@ -61,8 +61,6 @@ Quantitative Financial Analyst specialized in **Investment** using multiple **to
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anthony-Antona)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
 ![GitHub metrics](https://metrics.lecoq.io/Anthony-Antona)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Anthony-Antona)  
@@ -84,11 +82,17 @@ https://simpleicons.org/
 
 
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
+
  🌎**Languages:** 📚<br>
  
-Italian ![IT](https://hatscripts.github.io/circle-flags/flags/it.svg) C2 | English ![GB](https://hatscripts.github.io/circle-flags/flags/gb.svg) C1 | Spanish ![ES](https://hatscripts.github.io/circle-flags/flags/es.svg) B2 | French ![FR](https://hatscripts.github.io/circle-flags/flags/fr.svg) B1 | German ![DE](https://hatscripts.github.io/circle-flags/flags/de.svg) A2 | Portuguese ![PT](https://hatscripts.github.io/circle-flags/flags/pt.svg) A1
+Italian <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20" height="20"/> C2 | 
+English <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="20" height="20"/> C1 | 
+Spanish <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="20" height="20"/> B2 | 
+French <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="20" height="20"/> B1 | 
+German <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="20" height="20"/> A2 | 
+Portuguese <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="20" height="20"/> A1
 
-- 
+
 💻 **Coding and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
