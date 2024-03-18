@@ -60,12 +60,7 @@ I really enjoy learning and self-development so i decided to share what i learn 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Antona)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-Antona&show_icons=true)  
 
-</br>
-<p style="display: flex; justify-contect: space-between;">
 
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
 
 <!--
 
@@ -82,8 +77,8 @@ https://simpleicons.org/
 📝 ***Feel free to contact me.*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Anthony-Antona?label=Follow%20Me&style=social)](https://github.com/Anthony-Antona)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/anthony-antona/)
+[![Mail](https://img.shields.io/badge/Gmail-anthonyantona.work@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anthonyantona.work@gmail.com)
 <br>
 
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
@@ -108,8 +103,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
-
+`Finance`, `Investment`, `Trading`, `Economics`, `Politics`, `Risk management`, `Blockchain`, `Cryptocurrency`, `Mathematics`, `Programming`, `Statistics`, `Informatics-IT`, `Management`, `Machine Learning`, `Psychology`, `Artificial Intelligence`, `Entrepreneurship` and `Startup`.
 
 🌍 **Deployment platforms:**<br>
 
@@ -136,7 +130,13 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
 
+<!--
+</br>
+<p style="display: flex; justify-contect: space-between;">
 
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
 
 
 -->
