@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Anthony-Antona/Anthony-Antona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 ![Investment banker and Quant Analyst 🏦 ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm from Italy, and I do content on Finance.
-I really enjoy learning and self-development so i decided to share what i learn during my journey!
+I really enjoy learning and self-development so i decided to share what i learn during my journey!>
 
 Skills: Python, R, LaTeX, Matlab, SQL, Excel VBA, PowerBI, Tableau
 
