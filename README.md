@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, My name is Anthony
 #### Investment banker and Quant Analyst 🏦 
-![Investment banker and Quant Analyst 🏦 ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Investment banker and Quant Analyst 🏦 ](https://media.licdn.com/dms/image/D4E16AQHEK1stOyw0RQ/profile-displaybackgroundimage-shrink_350_1400/0/1686161562338?e=1716422400&v=beta&t=eeuli-UGZmuPZrwWWxJnnk6dBCtQ9bOVewot-PZPdPU)
 
 I'm from Italy, and I do content on Finance.
-I really enjoy learning and self-development so i decided to share what i learn during my journey!>
+I really enjoy learning and self-development so i decided to share what i learn during my journey!
 
 Skills: Python, R, LaTeX, Matlab, SQL, Excel VBA, PowerBI, Tableau
 
@@ -37,4 +37,5 @@ Skills: Python, R, LaTeX, Matlab, SQL, Excel VBA, PowerBI, Tableau
 ![GitHub metrics](https://metrics.lecoq.io/Anthony-Antona)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Anthony-Antona)  
+
 
