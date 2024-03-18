@@ -11,6 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Markdown Tips:
+
+To bolden the text, wrap it with two asterisks (*) (**word**)
+To italisize the text, wrap it with one asterisk (*) (*word*)
+To strikethrough the text, wrap it with two tildes (~) (~~word~~)
+To make a link, place the link text in brackets and the url in parentheses ([link](http://example.com))
+To make an example icon image, place an !, the alt text in brackets, and the url in parentheses (![github](/images/icon.png))
+Learn more: https://guides.github.com/features/mastering-markdown/
+
 -->
 
 ### Hi there 👋, My name is Anthony
@@ -20,7 +30,11 @@ Here are some ideas to get you started:
 I'm from Italy, and I do content on Finance.
 I really enjoy learning and self-development so i decided to share what i learn during my journey!
 
-Skills: Python, R, LaTeX, Matlab, SQL, Excel VBA, PowerBI, Tableau
+## Skills: 
+* Python, R, LaTeX, Matlab, SQL, Excel VBA, PowerBI, Tableau
+## Experience:
+* Finance data Associate in PricewaterhouseCoopers
+
 
 - 🔭 I’m currently working on my content creator project  
 - 📫 How to reach me: anthonyantona.work@gmail.com 
