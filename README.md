@@ -21,6 +21,11 @@ To make a link, place the link text in brackets and the url in parentheses ([lin
 To make an example icon image, place an !, the alt text in brackets, and the url in parentheses (![github](/images/icon.png))
 Learn more: https://guides.github.com/features/mastering-markdown/
 
+
+Cool readme page i took notes --- https://ahmad-sawalqeh.github.io/my_resume/#section-home
+Video add gif and youtube video, do it when you will start with youtube video --- https://www.youtube.com/watch?v=KhGWbt1dAKQ&ab_channel=AdrianTwarog
+Profile readme generator --- https://github.com/maurodesouza/profile-readme-generator
+Take ideas from here --- https://www.instagram.com/p/CuL5EchtvQK/?hl=it
 -->
 
 
