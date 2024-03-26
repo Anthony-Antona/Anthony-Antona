@@ -22,7 +22,7 @@ To make an example icon image, place an !, the alt text in brackets, and the url
 Learn more: https://guides.github.com/features/mastering-markdown/
 
 
-Cool readme page i took notes --- https://ahmad-sawalqeh.github.io/my_resume/#section-home
+Cool readme page  --- https://ahmad-sawalqeh.github.io/my_resume/#section-home
 Video add gif and youtube video, do it when you will start with youtube video --- https://www.youtube.com/watch?v=KhGWbt1dAKQ&ab_channel=AdrianTwarog
 Profile readme generator --- https://github.com/maurodesouza/profile-readme-generator
 Take ideas from here --- https://www.instagram.com/p/CuL5EchtvQK/?hl=it
@@ -51,11 +51,15 @@ Quantitative Financial Analyst specialized in **Investment** using multiple **to
 <br>
 
 
-## Skills: 
+## Main Hard Skills: 
 * Python, R, LaTeX, Matlab, SQL, Excel VBA, PowerBI, Tableau
-  
-## Experience:
+
+## Main Soft Skills: 
+* Leadership, Attention to details, 
+
+## Main Work Experience:
 * Finance data Associate in PricewaterhouseCoopers
+* Investment Banking consultant in Synpulse
 
 ## Other:
 - 🔭 I’m currently working on my content creator project  
@@ -103,10 +107,6 @@ Portuguese <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" wid
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Google](https://img.shields.io/badge/-Google-000000?style=flat&logo=google&labelColor=4285F4)
 
@@ -164,6 +164,9 @@ Portuguese <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" wid
 
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
 
-
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 
 -->
